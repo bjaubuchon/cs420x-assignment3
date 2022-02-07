@@ -1,7 +1,7 @@
 # cs420x-assignment3
 Brennan Aubuchon
 
-If you run by downloading, just clicking assignment3.html should work. Alternatively you can just go here to start it.
+If you run by downloading, just clicking assignment3.html should work. Alternatively you can just go [here](https://bjaubuchon.github.io/cs420x-assignment3/) to start it.
 
 You can alter the diffusion rates of A and B as well as the feed and kill rates for both.
 
